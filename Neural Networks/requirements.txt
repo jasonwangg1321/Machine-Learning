@@ -1,0 +1,1 @@
+Please make sure to include 'neg' and 'pos' folders in the same working directory as the jupyter notebook in order to be able to read the txt files and execute code properly. Thank you!
